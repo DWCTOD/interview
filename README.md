@@ -36,9 +36,3 @@
 
 
 
-### 赞助小编
-
-家里有矿的可以赞助一下小编
-
-<center class="half"><img src="./detail/wx.png" width=250/><img src="./detail/zfb.png" width=200/></center>
-
