@@ -4,6 +4,8 @@
 
 来源链接：https://www.nowcoder.com/discuss/180087
 
+声明：本文仅用于学习交流，非商业用途，如有侵权请联系删除～
+
 
 
 本人985硕，是做cv方向（包括GAN，object detection，pose estimation），成果可以概括为：三个科研项目，三个国家发明专利，两篇一作论文（CCF B和C），三段实习经历都是cv岗位，这次暑期实习面试岗位都是算法研究。

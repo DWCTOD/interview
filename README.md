@@ -30,6 +30,10 @@
 
 ### [作业帮 视觉算法工程师 面经（2020届）](https://github.com/DWCTOD/interview/blob/master/detail/%E4%BD%9C%E4%B8%9A%E5%B8%AE%20%E8%A7%86%E8%A7%89%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%20%E9%9D%A2%E7%BB%8F%EF%BC%882020%E5%B1%8A%EF%BC%89.md)
 
+### [商汤研究院-视觉算法研究员-面经](https://github.com/DWCTOD/interview/blob/master/detail/%E5%95%86%E6%B1%A4%E7%A0%94%E7%A9%B6%E9%99%A2-%E8%A7%86%E8%A7%89%E7%AE%97%E6%B3%95%E7%A0%94%E7%A9%B6%E5%91%98-%E9%9D%A2%E7%BB%8F%EF%BC%882020%E5%B1%8A%EF%BC%89.md)
+
+### [字节跳动-ailab-视觉算法面经（2020届）](https://github.com/DWCTOD/interview/blob/master/detail/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8-ailab-%E8%A7%86%E8%A7%89%E7%AE%97%E6%B3%95%E9%9D%A2%E7%BB%8F%EF%BC%882020%E5%B1%8A%EF%BC%89.md)
+
 # 内推：
 
 ### [内推 |【奥比中光】2020届校园招聘-广州站](https://mp.weixin.qq.com/s?__biz=MzU4NTY4Mzg1Mw==&mid=2247485554&idx=3&sn=4f39fffb01c003f0509321dc63ce507e&chksm=fd878e90caf00786e386f9f5dc5e6791f92c0b26cc7e8a825a025f3b816c674920490f81d609&token=1942161714&lang=zh_CN#rd)
