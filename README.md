@@ -40,5 +40,7 @@
 
 如需加交流群，可添加微信【**nvshenj125**】备注【**秋招**】拉你入群
 
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/7jnsg27ZEVFibAmNW4tsN1v4O0icUVSxsDeqp3gXaa0zbLGafDw9onibJBqNmthI7jgcX0UDwuFaNbLGKAsp6ASOw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" width=200>
+
 
 
