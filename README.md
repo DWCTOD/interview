@@ -10,8 +10,6 @@
 
 ### [阿里云算法岗实习生面经（1~3技术面，交叉面，hr面）（2019届）](https://github.com/DWCTOD/interview/blob/master/detail/%E9%98%BF%E9%87%8C%E4%BA%91%E7%AE%97%E6%B3%95%E5%B2%97%E9%9D%A2%E7%BB%8F%EF%BC%881~3%E6%8A%80%E6%9C%AF%E9%9D%A2%EF%BC%8C%E4%BA%A4%E5%8F%89%E9%9D%A2%EF%BC%8Chr%E9%9D%A2%EF%BC%89%EF%BC%882019%E5%B1%8A%EF%BC%89.md)
 
-### [字节跳动算法岗实习面经（2019届）](https://github.com/DWCTOD/interview/blob/master/detail/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E7%AE%97%E6%B3%95%E5%B2%97%E5%AE%9E%E4%B9%A0%E9%9D%A2%E7%BB%8F%EF%BC%882019%E5%B1%8A%EF%BC%89.md)
-
 ### [b站算法岗(人工智能与技术部）三面面经（2020届）](https://github.com/DWCTOD/interview/blob/master/detail/b%E7%AB%99%E7%AE%97%E6%B3%95%E5%B2%97-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%8E%E6%8A%80%E6%9C%AF%E9%83%A8%E4%B8%89%E9%9D%A2%E9%9D%A2%E7%BB%8F%EF%BC%882020%E5%B1%8A%EF%BC%89.md)
 
 ### [京东cv方向-云视频四面+总监面（2020届）](https://github.com/DWCTOD/interview/blob/master/detail/%E4%BA%AC%E4%B8%9C20%E6%A0%A1%E6%8B%9Bcv%E6%96%B9%E5%90%91-%E4%BA%91%E8%A7%86%E9%A2%91%E3%80%90%E5%9B%9B%E9%9D%A2%2B%E6%80%BB%E7%9B%91%E9%9D%A2%E3%80%91%EF%BC%882020%E5%B1%8A%EF%BC%89.md)
@@ -33,6 +31,14 @@
 ### [商汤研究院-视觉算法研究员-面经](https://github.com/DWCTOD/interview/blob/master/detail/%E5%95%86%E6%B1%A4%E7%A0%94%E7%A9%B6%E9%99%A2-%E8%A7%86%E8%A7%89%E7%AE%97%E6%B3%95%E7%A0%94%E7%A9%B6%E5%91%98-%E9%9D%A2%E7%BB%8F%EF%BC%882020%E5%B1%8A%EF%BC%89.md)
 
 ### [字节跳动-ailab-视觉算法面经（2020届）](https://github.com/DWCTOD/interview/blob/master/detail/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8-ailab-%E8%A7%86%E8%A7%89%E7%AE%97%E6%B3%95%E9%9D%A2%E7%BB%8F%EF%BC%882020%E5%B1%8A%EF%BC%89.md)
+
+### [字节跳动实习算法岗面经（2019届）](https://github.com/DWCTOD/interview/blob/master/detail/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E7%AE%97%E6%B3%95%E5%B2%97%E5%AE%9E%E4%B9%A0%E9%9D%A2%E7%BB%8F%EF%BC%882019%E5%B1%8A%EF%BC%89.md)
+
+### [热乎的商汤面筋(2020届)](https://github.com/DWCTOD/interview/blob/master/detail/%E7%83%AD%E4%B9%8E%E7%9A%84%E5%95%86%E6%B1%A4%E9%9D%A2%E7%AD%8B%EF%BC%8C%E5%A4%A7%E5%AE%B6%E4%B8%8D%E6%9D%A5%E4%B8%80%E7%A2%97%EF%BC%9F.md)
+
+### [面经 | 菜（大）鸡（佬）cv算法的20秋招辛酸路程，13家企业面经一一道来](https://github.com/DWCTOD/interview/blob/master/detail/%E8%8F%9C%EF%BC%88%E5%A4%A7%EF%BC%89%E9%B8%A1%EF%BC%88%E4%BD%AC%EF%BC%89cv%E7%AE%97%E6%B3%95%E7%9A%8420%E7%A7%8B%E6%8B%9B%E8%BE%9B%E9%85%B8%E8%B7%AF%E7%A8%8B%EF%BC%8C13%E5%AE%B6%E4%BC%81%E4%B8%9A%E9%9D%A2%E7%BB%8F%E4%B8%80%E4%B8%80%E9%81%93%E6%9D%A5.md)
+
+### [NLP and 机器学习面经(百度/寒武纪/作业帮/科大讯飞/追一科技/腾讯)](https://github.com/DWCTOD/interview/blob/master/detail/NLP%20and%20%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%9D%A2%E7%BB%8F%EF%BC%8C%E5%9B%9E%E9%A6%88%E7%89%9B%E5%AE%A2.md)
 
 # 内推：
 
