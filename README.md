@@ -40,6 +40,8 @@
 
 ### [NLP and 机器学习面经(百度/寒武纪/作业帮/科大讯飞/追一科技/腾讯)](https://github.com/DWCTOD/interview/blob/master/detail/NLP%20and%20%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%9D%A2%E7%BB%8F%EF%BC%8C%E5%9B%9E%E9%A6%88%E7%89%9B%E5%AE%A2.md)
 
+[【计算机视觉算法岗面经】“吐血”整理：2019秋招面经]()
+
 # 内推：
 
 ### [内推 |【奥比中光】2020届校园招聘-广州站](https://mp.weixin.qq.com/s?__biz=MzU4NTY4Mzg1Mw==&mid=2247485554&idx=3&sn=4f39fffb01c003f0509321dc63ce507e&chksm=fd878e90caf00786e386f9f5dc5e6791f92c0b26cc7e8a825a025f3b816c674920490f81d609&token=1942161714&lang=zh_CN#rd)
