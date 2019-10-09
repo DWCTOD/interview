@@ -40,9 +40,13 @@
 
 ### [NLP and 机器学习面经(百度/寒武纪/作业帮/科大讯飞/追一科技/腾讯)](https://github.com/DWCTOD/interview/blob/master/detail/NLP%20and%20%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%9D%A2%E7%BB%8F%EF%BC%8C%E5%9B%9E%E9%A6%88%E7%89%9B%E5%AE%A2.md)
 
-[【计算机视觉算法岗面经】“吐血”整理：2019秋招面经]()
+### [【计算机视觉算法岗面经】“吐血”整理：2019秋招面经](https://github.com/DWCTOD/interview/blob/master/detail/%E3%80%90%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%AE%97%E6%B3%95%E5%B2%97%E9%9D%A2%E7%BB%8F%E3%80%91%E2%80%9C%E5%90%90%E8%A1%80%E2%80%9D%E6%95%B4%E7%90%86%EF%BC%9A2019%E7%A7%8B%E6%8B%9B%E9%9D%A2%E7%BB%8F.md)
 
 # 内推：
+
+### [内推 | 商汤科技计算机视觉岗（全职/实习），可直通面试](https://mp.weixin.qq.com/s?__biz=MzU4NTY4Mzg1Mw==&mid=2247485715&idx=3&sn=d78c76515764bd50d366ef58f4fb5789&chksm=fd878ff1caf006e7c06e2d82d4448442b45dff080cdfbe27e3261db1dd625cc5f0f63a87ba80&scene=27#wechat_redirect)
+
+### [内推 | 小马智行2020校招，优秀者可免笔试](https://mp.weixin.qq.com/s?__biz=MzU4NTY4Mzg1Mw==&mid=2247485707&idx=2&sn=726c645a69048fb45b958f94577b10c1&chksm=fd878fe9caf006ff32f7180c0158d58e30e797a20c4947f987e7701759864ceb3065f150b114&scene=27#wechat_redirect)
 
 ### [内推 |【奥比中光】2020届校园招聘-广州站](https://mp.weixin.qq.com/s?__biz=MzU4NTY4Mzg1Mw==&mid=2247485554&idx=3&sn=4f39fffb01c003f0509321dc63ce507e&chksm=fd878e90caf00786e386f9f5dc5e6791f92c0b26cc7e8a825a025f3b816c674920490f81d609&token=1942161714&lang=zh_CN#rd)
 
