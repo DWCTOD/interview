@@ -42,9 +42,9 @@
 
 ### [【计算机视觉算法岗面经】“吐血”整理：2019秋招面经](https://github.com/DWCTOD/interview/blob/master/detail/%E3%80%90%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%AE%97%E6%B3%95%E5%B2%97%E9%9D%A2%E7%BB%8F%E3%80%91%E2%80%9C%E5%90%90%E8%A1%80%E2%80%9D%E6%95%B4%E7%90%86%EF%BC%9A2019%E7%A7%8B%E6%8B%9B%E9%9D%A2%E7%BB%8F.md)
 
-[腾讯暑期实习提前批机器学习面经]()
+### [腾讯暑期实习提前批机器学习面经](https://github.com/DWCTOD/interview/blob/master/detail/%E8%85%BE%E8%AE%AF%E6%9A%91%E6%9C%9F%E5%AE%9E%E4%B9%A0%E6%8F%90%E5%89%8D%E6%89%B9%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%9D%A2%E7%BB%8F.md)
 
-[媒智科技CV算法面经]()
+### [媒智科技CV算法面经](https://github.com/DWCTOD/interview/blob/master/detail/%E5%AA%92%E6%99%BA%E7%A7%91%E6%8A%80CV%E7%AE%97%E6%B3%95%E9%9D%A2%E7%BB%8F.md)
 
 
 
