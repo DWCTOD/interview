@@ -46,7 +46,9 @@
 
 ### [媒智科技CV算法面经](https://github.com/DWCTOD/interview/blob/master/detail/%E5%AA%92%E6%99%BA%E7%A7%91%E6%8A%80CV%E7%AE%97%E6%B3%95%E9%9D%A2%E7%BB%8F.md)
 
+### [转行渣硕的算法路，记录走过的坑和一些笔经面经给转行算法的同学](https://github.com/DWCTOD/interview/blob/master/detail/%E8%BD%AC%E8%A1%8C%E6%B8%A3%E7%A1%95%E7%9A%84%E7%AE%97%E6%B3%95%E8%B7%AF%EF%BC%8C%E8%AE%B0%E5%BD%95%E8%B5%B0%E8%BF%87%E7%9A%84%E5%9D%91%E5%92%8C%E4%B8%80%E4%BA%9B%E7%AC%94%E7%BB%8F%E9%9D%A2%E7%BB%8F%E7%BB%99%E8%BD%AC%E8%A1%8C%E7%AE%97%E6%B3%95%E7%9A%84%E5%90%8C%E5%AD%A6%EF%BC%882020%E5%B1%8A%EF%BC%89.md)
 
+### [SLAM秋招面经](https://github.com/DWCTOD/interview/blob/master/detail/SLAM%E7%A7%8B%E6%8B%9B%E9%9D%A2%E7%BB%8F%EF%BC%882020%E5%B1%8A%EF%BC%89.md)
 
 # 内推：
 
