@@ -50,6 +50,10 @@
 
 ### [SLAM秋招面经](https://github.com/DWCTOD/interview/blob/master/detail/SLAM%E7%A7%8B%E6%8B%9B%E9%9D%A2%E7%BB%8F%EF%BC%882020%E5%B1%8A%EF%BC%89.md)
 
+### [秋招接近末尾，985硕士至今0 offer的自我反思？（2020届）](https://github.com/DWCTOD/interview/blob/master/detail/%E7%A7%8B%E6%8B%9B%E6%8E%A5%E8%BF%91%E6%9C%AB%E5%B0%BE%EF%BC%8C985%E7%A1%95%E5%A3%AB%E8%87%B3%E4%BB%8A0%20offer%E7%9A%84%E8%87%AA%E6%88%91%E5%8F%8D%E6%80%9D%EF%BC%9F%EF%BC%882020%E5%B1%8A%EF%BC%89.md)
+
+### [非科班985硕士漫长的算法工程师上岸之旅（2020届）](https://github.com/DWCTOD/interview/blob/master/detail/%E9%9D%9E%E7%A7%91%E7%8F%AD985%E7%A1%95%E5%A3%AB%E6%BC%AB%E9%95%BF%E7%9A%84%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%8A%E5%B2%B8%E4%B9%8B%E6%97%85%EF%BC%882020%E5%B1%8A%EF%BC%89.md)
+
 # 内推：
 
 ### [内推 | 商汤科技计算机视觉岗（全职/实习），可直通面试](https://mp.weixin.qq.com/s?__biz=MzU4NTY4Mzg1Mw==&mid=2247485715&idx=3&sn=d78c76515764bd50d366ef58f4fb5789&chksm=fd878ff1caf006e7c06e2d82d4448442b45dff080cdfbe27e3261db1dd625cc5f0f63a87ba80&scene=27#wechat_redirect)
