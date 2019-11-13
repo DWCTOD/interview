@@ -56,7 +56,7 @@
 
 [非科班985硕士漫长的算法工程师上岸之旅（2020届）](https://github.com/DWCTOD/interview/blob/master/detail/%E9%9D%9E%E7%A7%91%E7%8F%AD985%E7%A1%95%E5%A3%AB%E6%BC%AB%E9%95%BF%E7%9A%84%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%8A%E5%B2%B8%E4%B9%8B%E6%97%85%EF%BC%882020%E5%B1%8A%EF%BC%89.md)
 
-[2019秋招总结（算法工程师，非科班，已拿6+offer）]()
+[2019秋招总结（算法工程师，非科班，已拿6+offer）](https://github.com/DWCTOD/interview/blob/master/detail/2019%E7%A7%8B%E6%8B%9B%E6%80%BB%E7%BB%93%EF%BC%88%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%8C%E9%9D%9E%E7%A7%91%E7%8F%AD%EF%BC%8C%E5%B7%B2%E6%8B%BF6%2Boffer%EF%BC%89%20.md)
 
 # 按企业分类：
 
@@ -66,11 +66,11 @@
 |          | [阿里巴巴计算机视觉算法实习生（2018届）-1](https://github.com/DWCTOD/interview/blob/master/detail/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%AE%97%E6%B3%95%E5%AE%9E%E4%B9%A0%E7%94%9F%EF%BC%882018%E5%B1%8A%EF%BC%89-1.md) |
 |          | [阿里达摩院-计算机视觉（2019届）](https://github.com/DWCTOD/interview/blob/master/detail/%E9%98%BF%E9%87%8C%E8%BE%BE%E6%91%A9%E9%99%A2-%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%EF%BC%882019%E5%B1%8A%EF%BC%89.md) |
 |          | [阿里云算法岗实习生面经（1~3技术面，交叉面，hr面）（2019届）](https://github.com/DWCTOD/interview/blob/master/detail/%E9%98%BF%E9%87%8C%E4%BA%91%E7%AE%97%E6%B3%95%E5%B2%97%E9%9D%A2%E7%BB%8F%EF%BC%881~3%E6%8A%80%E6%9C%AF%E9%9D%A2%EF%BC%8C%E4%BA%A4%E5%8F%89%E9%9D%A2%EF%BC%8Chr%E9%9D%A2%EF%BC%89%EF%BC%882019%E5%B1%8A%EF%BC%89.md) |
-|          |                                                              |
-|          |                                                              |
-|          |                                                              |
-|          |                                                              |
-|          |                                                              |
+| 字节跳动 | [字节跳动实习算法岗面经（2019届）](https://github.com/DWCTOD/interview/blob/master/detail/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E7%AE%97%E6%B3%95%E5%B2%97%E5%AE%9E%E4%B9%A0%E9%9D%A2%E7%BB%8F%EF%BC%882019%E5%B1%8A%EF%BC%89.md) |
+|          | [字节跳动-ailab-视觉算法面经（2020届）](https://github.com/DWCTOD/interview/blob/master/detail/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8-ailab-%E8%A7%86%E8%A7%89%E7%AE%97%E6%B3%95%E9%9D%A2%E7%BB%8F%EF%BC%882020%E5%B1%8A%EF%BC%89.md) |
+| 商汤科技 | [热乎的商汤面筋(2020届)](https://github.com/DWCTOD/interview/blob/master/detail/%E7%83%AD%E4%B9%8E%E7%9A%84%E5%95%86%E6%B1%A4%E9%9D%A2%E7%AD%8B%EF%BC%8C%E5%A4%A7%E5%AE%B6%E4%B8%8D%E6%9D%A5%E4%B8%80%E7%A2%97%EF%BC%9F.md) |
+|          | [商汤研究院-视觉算法研究员-面经](https://github.com/DWCTOD/interview/blob/master/detail/%E5%95%86%E6%B1%A4%E7%A0%94%E7%A9%B6%E9%99%A2-%E8%A7%86%E8%A7%89%E7%AE%97%E6%B3%95%E7%A0%94%E7%A9%B6%E5%91%98-%E9%9D%A2%E7%BB%8F%EF%BC%882020%E5%B1%8A%EF%BC%89.md) |
+| b站      | [b站算法岗(人工智能与技术部）三面面经（2020届）](https://github.com/DWCTOD/interview/blob/master/detail/b%E7%AB%99%E7%AE%97%E6%B3%95%E5%B2%97-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%8E%E6%8A%80%E6%9C%AF%E9%83%A8%E4%B8%89%E9%9D%A2%E9%9D%A2%E7%BB%8F%EF%BC%882020%E5%B1%8A%EF%BC%89.md) |
 
 
 
