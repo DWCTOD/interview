@@ -58,6 +58,8 @@
 
 [2019秋招总结（算法工程师，非科班，已拿6+offer）](https://github.com/DWCTOD/interview/blob/master/detail/2019%E7%A7%8B%E6%8B%9B%E6%80%BB%E7%BB%93%EF%BC%88%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%8C%E9%9D%9E%E7%A7%91%E7%8F%AD%EF%BC%8C%E5%B7%B2%E6%8B%BF6%2Boffer%EF%BC%89%20.md)
 
+[vivo算法提前批面经(已拿offer)](https://github.com/DWCTOD/interview/blob/master/detail/vivo%E7%AE%97%E6%B3%95%E6%8F%90%E5%89%8D%E6%89%B9%E9%9D%A2%E7%BB%8F(%E5%B7%B2%E6%8B%BFoffer).md)
+
 # 按企业分类：
 
 | 企业     | 面经                                                         |
