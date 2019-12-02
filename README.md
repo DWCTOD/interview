@@ -1,8 +1,8 @@
 # 算法岗面经整理
 
-[TOC]
-
 本项目用于整理算法岗的面经（包含计算机视觉方向、机器学习、NLP等等方向），欢迎各位大佬分享自己的面经或内推，对本项目的各种建议或意见都可以通过issue交流，会及时回复
+
+**郑重申请：本项目仅用于学习交流分享，非商业用途，内容均为网络收集的优质内容！如需转载请联系原作者**
 
 ![](./imgs/AI_interview.png)
 
@@ -20,7 +20,7 @@
 | :-------------------------------------: | :----------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: |
 | <img src="./imgs/2221097.jpg" width=40> | <img src="./imgs/270f.png" width=40> | <img src="./imgs/2515618.jpg" width=40> | <img src="./imgs/2791628.jpg" width=40> | <img src="./imgs/2754452.jpg" width=40> | <img src="./imgs/2541277.jpg" width=40> | <img src="./imgs/1766713.jpg" width=40> | <img src="./imgs/1912842.jpg" width=40> |
 
-## <img src="./imgs/2221097.jpg" width=40> 数学基础
+## <img src="./imgs/2221097.jpg" width=40> [数学基础](<https://mp.weixin.qq.com/s/diLtVlnwqQuBWyDLGeY24A>)
 
 - [机器学习与深度学习中的数学知识点概要](https://github.com/DWCTOD/interview/blob/master/math/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6%E7%9F%A5%E8%AF%86%E7%82%B9%E6%B1%87%E6%80%BB%EF%BC%88%E4%B8%80%EF%BC%89.md)
 - [高等数学/微积分](https://github.com/DWCTOD/interview/blob/master/math/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6%E7%9F%A5%E8%AF%86%E7%82%B9%E6%B1%87%E6%80%BB%EF%BC%88%E4%BA%8C%EF%BC%89%E5%BE%AE%E7%A7%AF%E5%88%86%E7%9F%A5%E8%AF%86%E7%82%B9.md)
@@ -29,9 +29,21 @@
 - [最优化方法](https://github.com/DWCTOD/interview/blob/master/math/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6%E7%9F%A5%E8%AF%86%E7%82%B9%E6%B1%87%E6%80%BB%EF%BC%88%E4%BA%94%EF%BC%89%E6%9C%80%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md)
 - [图论/离散数学](https://github.com/DWCTOD/interview/blob/master/math/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6%E7%9F%A5%E8%AF%86%E7%82%B9%E6%B1%87%E6%80%BB%EF%BC%88%E5%85%AD%EF%BC%89%E5%9B%BE%E8%AE%BA.md)
 
+## <img src="./imgs/270f.png" width=50> [算法](<https://mp.weixin.qq.com/s?__biz=MzU4NTY4Mzg1Mw==&mid=2247484827&idx=1&sn=62af2cd735270caa92133396b41794be&chksm=fd878379caf00a6fddc8c5808ffae53e314e262c615f0cfa045fef24fe487371800d505764a8&token=685768679&lang=zh_CN#rd>)
 
+|                             项目                             |               描述               |                             备注                             |
+| :----------------------------------------------------------: | :------------------------------: | :----------------------------------------------------------: |
+|      [刷题神器](https://zhuanlan.zhihu.com/p/38005681)       | 分享两款提高刷题效率和质量的神器 | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-blue) |
+| [图解算法](https://github.com/MisterBooo/LeetCodeAnimation)  |     用动态图详细讲解算法原理     | ![](https://img.shields.io/github/stars/MisterBooo/LeetCodeAnimation.svg) |
+| [笔试面试题库](https://www.nowcoder.com/contestRoom?from=cyc_github) |         必备企业刷题网站         | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-blue) |
 
+TODO
 
+[剑指offer 题解 TODO更新python版本](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E5%89%91%E6%8C%87%20Offer%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md)
+
+[Leetcode 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md)
+
+------
 
 [阿里巴巴计算机视觉算法实习生（2018届）](https://github.com/DWCTOD/interview/blob/master/detail/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%AE%97%E6%B3%95%E5%AE%9E%E4%B9%A0%E7%94%9F%EF%BC%882018%E5%B1%8A%EF%BC%89.md)
 
