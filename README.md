@@ -43,6 +43,26 @@ TODO
 
 [Leetcode 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md)
 
+### <img src="./imgs/2515618.jpg" width=50>图像处理
+
+------
+
+TODO
+
+### <img src="./imgs/2791628.jpg" width=50> 机器学习
+
+------
+
+TODO
+
+### <img src="./imgs/2754452.jpg" width=50> 深度学习
+
+------
+
+[分类、目标检测中的评价指标](<https://zhuanlan.zhihu.com/p/33273532>)
+
+
+
 ------
 
 [阿里巴巴计算机视觉算法实习生（2018届）](https://github.com/DWCTOD/interview/blob/master/detail/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%AE%97%E6%B3%95%E5%AE%9E%E4%B9%A0%E7%94%9F%EF%BC%882018%E5%B1%8A%EF%BC%89.md)
