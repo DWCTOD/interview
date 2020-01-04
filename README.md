@@ -60,23 +60,27 @@ TODO
 ------
 
 - [一文详尽系列之模型评估指标](http://mp.weixin.qq.com/s?__biz=MzU4NTY4Mzg1Mw==&mid=100002624&idx=3&sn=4b1dbd5a61865b4bc4868c256b278100&chksm=7d878da24af004b413a89540179133a60681bf28a32caa745fb34644573ac7a2bfecb0568b67#rd)
-  - 准确率（Accuracy）、精确率（Precision）、召回率（Recall）、F1值（F1 score）
+  - **准确率（Accuracy）、精确率（Precision）、召回率（Recall）、F1值（F1 score）**
     - 准确率：正确分类的样本个数占总样本个数
     - 精确率：预测正确的正例数据占预测为正例数据的比例
     - 召回率：预测为正确的正例数据占实际为正例数据的比例
     - F1值：F1=2/（1/P+1/R）
-  - P-R、ROC、AUC
+  - **P-R、ROC、AUC （主要应用于分类场景）**
     - P-R：横轴召回率，纵轴精确率。
     - ROC（receiver operating characteristic curve接收者操作特征曲线）：采用不分类阈值时的TPR（真正例率）与FPR（假正例率）围成的曲线，以FPR为横坐标，TPR为纵坐标。如果 ROC 是光滑的，那么基本可以判断没有太大的overfitting。
       - TPR（真正例率）表示当前分到正样本中真实的正样本所占所有正样本的比例（TPR = TP / (TP+FN)）
       - FPR（假正例率）表示当前被错误分到正样本类别中真实的负样本所占所有负样本总数的比例（FPR = FP / (FP + TN)）
     - AUC（area under curve）：计算从（0, 0）到（1, 1）之间整个ROC曲线一下的整个二维面积，用于衡量二分类问题其机器学习算法性能的泛化能力。其另一种解读方式可以是模型将某个随机正类别样本排列在某个随机负类别样本之上的概率。
-  - MSE、RMSE、MAE、R<sup>2</sup>
+  - **MSE、RMSE、MAE、R<sup>2</sup> （主要应用于回归模型）**
     - MSE(Mean Squared Error) 均方误差
     - RMSE(Root Mean Squared Error) 均方根误差
     - MAE(Mean Absolute Error) 平均绝对误差
-    - 
-  - 余弦距离的应用
+    - R<sup>2</sup> 决定系数
+  - **样本间距离的应用**
+    - 样本间的距离有不同的定义方式，常见的有欧式距离、曼哈顿距离、汉明距离、余弦距离等等。
+  - **A/B测试**
+    - A/B 测试是验证模型最终效果的主要手段。当进行 A/B 测试时，通常会采用两个（或多个）组：A 组和 B 组。第一个组是对照组，第二个组会改变其中一些因素。
+  - **t检验、z检验、卡方检验**
 
 [分类、目标检测中的评价指标](<https://zhuanlan.zhihu.com/p/33273532>)
 
