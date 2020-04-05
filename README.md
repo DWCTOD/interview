@@ -36,10 +36,10 @@
 |      [刷题神器](https://zhuanlan.zhihu.com/p/38005681)       | 分享两款提高刷题效率和质量的神器 | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-blue) |
 | [图解算法](https://github.com/MisterBooo/LeetCodeAnimation)  |     用动态图详细讲解算法原理     | ![](https://img.shields.io/github/stars/MisterBooo/LeetCodeAnimation.svg) |
 | [笔试面试题库](https://www.nowcoder.com/contestRoom?from=cyc_github) |         必备企业刷题网站         | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-blue) |
+| [剑指offer-Python版]( <https://github.com/JushuangQiao/Python-Offer>) |  《剑指Offer》面试题Python实现   | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-blue) |
+| [剑指offer-C++版]( https://github.com/zhedahht/CodingInterviewChinese2) |    《剑指Offer》面试题C++实现    | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-blue) |
 
 TODO
-
-[剑指offer 题解 TODO更新python版本](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E5%89%91%E6%8C%87%20Offer%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md)
 
 [Leetcode 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md)
 
@@ -49,11 +49,15 @@ TODO
 
 TODO
 
+图像处理推荐教程和面试题整理
+
 ### <img src="./imgs/2791628.jpg" width=50> 机器学习
 
 ------
 
 TODO
+
+机器学习推荐教程和面试题整理
 
 ### <img src="./imgs/2754452.jpg" width=50> 深度学习
 
@@ -150,6 +154,8 @@ TODO
 
 [OPPO机器学习算法工程师面经](https://github.com/DWCTOD/interview/blob/master/detail/OPPO%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E9%9D%A2%E7%BB%8F.md)
 
+[数学专业美女自学转行程序媛，并拿下字节跳动算法工程师-cv方向(2020届)]( <https://mp.weixin.qq.com/s?__biz=MzU4NTY4Mzg1Mw==&mid=2247486630&idx=2&sn=cd7bf03ca03a1f8e8f7119cabd43657c&chksm=fd878a44caf00352a367bf7d17062a9e9eb7c86c50b59a7b5a3d93db7d214b5e9991e891830d&scene=27#wechat_redirect>)
+
 # 按企业分类：
 
 | 企业     | 面经                                                         |
@@ -160,6 +166,7 @@ TODO
 |          | [阿里云算法岗实习生面经（1~3技术面，交叉面，hr面）（2019届）](https://github.com/DWCTOD/interview/blob/master/detail/%E9%98%BF%E9%87%8C%E4%BA%91%E7%AE%97%E6%B3%95%E5%B2%97%E9%9D%A2%E7%BB%8F%EF%BC%881~3%E6%8A%80%E6%9C%AF%E9%9D%A2%EF%BC%8C%E4%BA%A4%E5%8F%89%E9%9D%A2%EF%BC%8Chr%E9%9D%A2%EF%BC%89%EF%BC%882019%E5%B1%8A%EF%BC%89.md) |
 | 字节跳动 | [字节跳动实习算法岗面经（2019届）](https://github.com/DWCTOD/interview/blob/master/detail/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E7%AE%97%E6%B3%95%E5%B2%97%E5%AE%9E%E4%B9%A0%E9%9D%A2%E7%BB%8F%EF%BC%882019%E5%B1%8A%EF%BC%89.md) |
 |          | [字节跳动-ailab-视觉算法面经（2020届）](https://github.com/DWCTOD/interview/blob/master/detail/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8-ailab-%E8%A7%86%E8%A7%89%E7%AE%97%E6%B3%95%E9%9D%A2%E7%BB%8F%EF%BC%882020%E5%B1%8A%EF%BC%89.md) |
+|          | [数学专业美女自学转行程序媛，并拿下字节跳动算法工程师-cv方向(2020届)]( <https://mp.weixin.qq.com/s?__biz=MzU4NTY4Mzg1Mw==&mid=2247486630&idx=2&sn=cd7bf03ca03a1f8e8f7119cabd43657c&chksm=fd878a44caf00352a367bf7d17062a9e9eb7c86c50b59a7b5a3d93db7d214b5e9991e891830d&scene=27#wechat_redirect>) |
 | 商汤科技 | [热乎的商汤面筋(2020届)](https://github.com/DWCTOD/interview/blob/master/detail/%E7%83%AD%E4%B9%8E%E7%9A%84%E5%95%86%E6%B1%A4%E9%9D%A2%E7%AD%8B%EF%BC%8C%E5%A4%A7%E5%AE%B6%E4%B8%8D%E6%9D%A5%E4%B8%80%E7%A2%97%EF%BC%9F.md) |
 |          | [商汤研究院-视觉算法研究员-面经](https://github.com/DWCTOD/interview/blob/master/detail/%E5%95%86%E6%B1%A4%E7%A0%94%E7%A9%B6%E9%99%A2-%E8%A7%86%E8%A7%89%E7%AE%97%E6%B3%95%E7%A0%94%E7%A9%B6%E5%91%98-%E9%9D%A2%E7%BB%8F%EF%BC%882020%E5%B1%8A%EF%BC%89.md) |
 | 腾讯     | [腾讯暑期实习提前批机器学习面经](https://github.com/DWCTOD/interview/blob/master/detail/%E8%85%BE%E8%AE%AF%E6%9A%91%E6%9C%9F%E5%AE%9E%E4%B9%A0%E6%8F%90%E5%89%8D%E6%89%B9%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%9D%A2%E7%BB%8F.md) |
