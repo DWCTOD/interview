@@ -7,6 +7,8 @@
 - [数学基础](#basic_math)
 - [算法](#algorithm)
 - [2021面经&内推整理](#2021_interview)
+  - [2021面经整理](#2021_interview)
+  - [20201内推整理](#2021_内推)
 - [2020面经](#2021_interview)
   - [按企业分类](#企业)
 - [算法岗经典资料](#汇总)
@@ -112,7 +114,15 @@ TODO
 
 ## 2021面经和内推整理
 
+<a name="2021_内推"></a>
 
+[2021届图像／计算机视觉算法提前批的面经 | 附内推码](https://mp.weixin.qq.com/s?__biz=MzU4NTY4Mzg1Mw==&mid=2247491596&idx=4&sn=fa5b2de6199812c2ec47cad26793c207&chksm=fd8466eecaf3eff8dc19f10f59fa3a747b48588fddce7091daa74ae9e4bcea453160ada2680e&scene=27#wechat_redirect)
+
+### 2021内推
+
+[内推 | 字节跳动校招提前批次](https://mp.weixin.qq.com/s?__biz=MzU4NTY4Mzg1Mw==&mid=2247489896&idx=4&sn=557e39f007afa65b515b4e72c655126a&chksm=fd879f8acaf0169c979137e9a8a04d2bd96ffadc462ffb960e3691ba812a24fbfc9e19318a20&scene=27#wechat_redirect)
+
+[内推 | 京东2021校园招聘提前批全面启动！](https://mp.weixin.qq.com/s?__biz=MzU4NTY4Mzg1Mw==&mid=2247489639&idx=3&sn=2b11c38dc04ed630e4212841185a3c07&chksm=fd879e85caf01793fdb963a48b09b73632dded6f1d2e78cf1ccfba3ee021e49816179fb9b5d5&scene=27#wechat_redirect)
 
 <a name="2020_interview"></a>
 
