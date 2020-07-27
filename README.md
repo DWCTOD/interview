@@ -4,7 +4,15 @@
 
 **郑重申请：本项目仅用于学习交流分享，非商业用途，内容均为网络收集的优质内容！如需转载请联系原作者**
 
-[toc]
+- [数学基础](#basic math)
+- [算法](#algorithm)
+- [2021面经&内推整理](#2021 interview)
+- [2020面经](#2021 interview)
+  - [按企业分类](#企业)
+- [算法岗经典资料](#汇总)
+- [祝你顺利](#关注)
+
+
 
 ![](./imgs/AI_interview.png)
 
@@ -22,6 +30,8 @@
 | :-------------------------------------: | :----------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: |
 | <img src="./imgs/2221097.jpg" width=40> | <img src="./imgs/270f.png" width=40> | <img src="./imgs/2515618.jpg" width=40> | <img src="./imgs/2791628.jpg" width=40> | <img src="./imgs/2754452.jpg" width=40> | <img src="./imgs/2541277.jpg" width=40> | <img src="./imgs/1766713.jpg" width=40> | <img src="./imgs/1912842.jpg" width=40> |
 
+<a name="basic math"></a>
+
 ## <img src="./imgs/2221097.jpg" width=40> [数学基础](<https://mp.weixin.qq.com/s/diLtVlnwqQuBWyDLGeY24A>)
 
 - [机器学习与深度学习中的数学知识点概要](https://github.com/DWCTOD/interview/blob/master/math/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6%E7%9F%A5%E8%AF%86%E7%82%B9%E6%B1%87%E6%80%BB%EF%BC%88%E4%B8%80%EF%BC%89.md)
@@ -30,6 +40,8 @@
 - [概率论与信息论](https://github.com/DWCTOD/interview/blob/master/math/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6%E7%9F%A5%E8%AF%86%E7%82%B9%E6%B1%87%E6%80%BB%EF%BC%88%E5%9B%9B%EF%BC%89%E6%A6%82%E7%8E%87%E8%AE%BA.md)
 - [最优化方法](https://github.com/DWCTOD/interview/blob/master/math/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6%E7%9F%A5%E8%AF%86%E7%82%B9%E6%B1%87%E6%80%BB%EF%BC%88%E4%BA%94%EF%BC%89%E6%9C%80%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95.md)
 - [图论/离散数学](https://github.com/DWCTOD/interview/blob/master/math/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6%E7%9F%A5%E8%AF%86%E7%82%B9%E6%B1%87%E6%80%BB%EF%BC%88%E5%85%AD%EF%BC%89%E5%9B%BE%E8%AE%BA.md)
+
+<a name="algorithm"></a>
 
 ## <img src="./imgs/270f.png" width=50> [算法](<https://mp.weixin.qq.com/s?__biz=MzU4NTY4Mzg1Mw==&mid=2247484827&idx=1&sn=62af2cd735270caa92133396b41794be&chksm=fd878379caf00a6fddc8c5808ffae53e314e262c615f0cfa045fef24fe487371800d505764a8&token=685768679&lang=zh_CN#rd>)
 
@@ -96,9 +108,15 @@ TODO
 
 ---
 
+<a name="2021 interview"></a>
+
 ## 2021面经和内推整理
 
 
+
+<a name="2020 interview"></a>
+
+## 2020面经和内推整理
 
 ------
 
@@ -162,6 +180,8 @@ TODO
 
 [数学专业美女自学转行程序媛，并拿下字节跳动算法工程师-cv方向(2020届)]( <https://mp.weixin.qq.com/s?__biz=MzU4NTY4Mzg1Mw==&mid=2247486630&idx=2&sn=cd7bf03ca03a1f8e8f7119cabd43657c&chksm=fd878a44caf00352a367bf7d17062a9e9eb7c86c50b59a7b5a3d93db7d214b5e9991e891830d&scene=27#wechat_redirect>)
 
+<a name="企业"></a>
+
 # 按企业分类：
 
 | 企业     | 面经                                                         |
@@ -196,6 +216,8 @@ TODO
 |          | [秋招接近末尾，985硕士至今0 offer的自我反思？（2020届）](https://github.com/DWCTOD/interview/blob/master/detail/%E7%A7%8B%E6%8B%9B%E6%8E%A5%E8%BF%91%E6%9C%AB%E5%B0%BE%EF%BC%8C985%E7%A1%95%E5%A3%AB%E8%87%B3%E4%BB%8A0%20offer%E7%9A%84%E8%87%AA%E6%88%91%E5%8F%8D%E6%80%9D%EF%BC%9F%EF%BC%882020%E5%B1%8A%EF%BC%89.md) |
 |          | [非科班985硕士漫长的算法工程师上岸之旅（2020届）](https://github.com/DWCTOD/interview/blob/master/detail/%E9%9D%9E%E7%A7%91%E7%8F%AD985%E7%A1%95%E5%A3%AB%E6%BC%AB%E9%95%BF%E7%9A%84%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%8A%E5%B2%B8%E4%B9%8B%E6%97%85%EF%BC%882020%E5%B1%8A%EF%BC%89.md) |
 |          | [2019秋招总结（算法工程师，非科班，已拿6+offer）](https://github.com/DWCTOD/interview/blob/master/detail/2019%E7%A7%8B%E6%8B%9B%E6%80%BB%E7%BB%93%EF%BC%88%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%8C%E9%9D%9E%E7%A7%91%E7%8F%AD%EF%BC%8C%E5%B7%B2%E6%8B%BF6%2Boffer%EF%BC%89%20.md) |
+
+<a name="汇总"></a>
 
 # 算法岗面试知识点整理项目：
 
@@ -233,7 +255,7 @@ https://github.com/DWCTOD/Algorithm_Interview_Notes-Chinese
 
 <https://github.com/NLP-LOVE/ML-NLP>
 
-
+<a name="关注"></a>
 
 # 欢迎关注
 
