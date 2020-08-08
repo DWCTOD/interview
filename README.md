@@ -122,7 +122,21 @@ TODO
 
 [内推 | 字节跳动校招提前批次](https://mp.weixin.qq.com/s?__biz=MzU4NTY4Mzg1Mw==&mid=2247489896&idx=4&sn=557e39f007afa65b515b4e72c655126a&chksm=fd879f8acaf0169c979137e9a8a04d2bd96ffadc462ffb960e3691ba812a24fbfc9e19318a20&scene=27#wechat_redirect)
 
+[内推 | 字节跳动秋招](https://mp.weixin.qq.com/s?__biz=MzU4NTY4Mzg1Mw==&mid=2247494122&idx=4&sn=0d4dfe21776705e073bc62891e165856&chksm=fd846f08caf3e61e614f511536aaba8d2b7a862bbd41631df5641978550d506068045d51d69c&scene=27#wechat_redirect)
+
 [内推 | 京东2021校园招聘提前批全面启动！](https://mp.weixin.qq.com/s?__biz=MzU4NTY4Mzg1Mw==&mid=2247489639&idx=3&sn=2b11c38dc04ed630e4212841185a3c07&chksm=fd879e85caf01793fdb963a48b09b73632dded6f1d2e78cf1ccfba3ee021e49816179fb9b5d5&scene=27#wechat_redirect)
+
+[内推 | 百度提前批](https://mp.weixin.qq.com/s?__biz=MzU4NTY4Mzg1Mw==&mid=2247492934&idx=5&sn=3840c7c97d8141e26cf31168daf83e04&chksm=fd8463a4caf3eab269f57d45e9411dbcde462c02569821a189d6772d8d430248a636731c146c&scene=21#wechat_redirect)
+
+[内推 | OPPO全球校招](https://mp.weixin.qq.com/s?__biz=MzU4NTY4Mzg1Mw==&mid=2247491902&idx=4&sn=dd9dfc2f3ed1b18f67325a9b205177af&chksm=fd8467dccaf3eecaa0df5bab8957618a7d9669914e3e2c02513a1964dd22260dfcdba177e357&scene=21#wechat_redirect)
+
+[内推 | 海康威视](https://mp.weixin.qq.com/s?__biz=MzU4NTY4Mzg1Mw==&mid=2247491724&idx=3&sn=50579c7232a7ac9bcf1c2f64562b1b12&chksm=fd84666ecaf3ef7863c8056f6c40b8bf16736361052d641e5b4626d638a7f72b50e7cbdc9832&scene=21#wechat_redirect)
+
+[内推 | 大疆内推](https://mp.weixin.qq.com/s?__biz=MzU4NTY4Mzg1Mw==&mid=2247492999&idx=5&sn=e970e52b409cdb58b4f0ef62202ad01b&chksm=fd846365caf3ea731d189eb42e3fbbe8125e95050c052a32ffcf7adb111c8ad3cab05ca97abb&scene=21#wechat_redirect)
+
+[内推 | 网易](https://mp.weixin.qq.com/s?__biz=MzU4NTY4Mzg1Mw==&mid=2247493038&idx=5&sn=2080bae4856eda7fa7fa1eed82ecefd8&chksm=fd84634ccaf3ea5a10c3908d05ef4a38a41d9e726d528ef6633f7ae8184429cda4d6114d77d7&scene=21#wechat_redirect)
+
+[内推 | 阿里云](https://mp.weixin.qq.com/s?__biz=MzU4NTY4Mzg1Mw==&mid=2247493342&idx=4&sn=d616863a757d2f29e006c7e59a4243f7&chksm=fd84603ccaf3e92ae6c9e60bdb0fd184b28075a92a93ced721ae8971ebe982e5085e821727e4&scene=21#wechat_redirect)
 
 <a name="2020_interview"></a>
 
