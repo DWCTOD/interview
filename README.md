@@ -117,6 +117,8 @@ TODO
 
 [内推 | 阿里云](https://mp.weixin.qq.com/s?__biz=MzU4NTY4Mzg1Mw==&mid=2247493342&idx=4&sn=d616863a757d2f29e006c7e59a4243f7&chksm=fd84603ccaf3e92ae6c9e60bdb0fd184b28075a92a93ced721ae8971ebe982e5085e821727e4&scene=21#wechat_redirect)
 
+[内推 | 阿里达摩院](https://zhuanlan.zhihu.com/p/160238158)
+
 <a name="2020_interview"></a>
 
 ## 2020面经和内推整理
