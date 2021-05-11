@@ -101,7 +101,7 @@ TODO
 <a name="2021_interview"></a>
 
 ## 2021面经和内推整理
-
+[腾讯/字节/华为/旷视 2022届实习面经—计算机视觉方向](https://mp.weixin.qq.com/s?__biz=MzU4NTY4Mzg1Mw==&mid=2247506668&idx=1&sn=d34f120dc4a39143e1033635dd20a006&chksm=fd845c0ecaf3d518b3da2f3f10dc28e85097e0ac5d6ba95de4bda0058b0f72a78c56097d10ca#rd)
 <a name="2021_内推"></a>
 
 [2021届图像／计算机视觉算法提前批的面经 | 附内推码](https://mp.weixin.qq.com/s?__biz=MzU4NTY4Mzg1Mw==&mid=2247491596&idx=4&sn=fa5b2de6199812c2ec47cad26793c207&chksm=fd8466eecaf3eff8dc19f10f59fa3a747b48588fddce7091daa74ae9e4bcea453160ada2680e&scene=27#wechat_redirect)
